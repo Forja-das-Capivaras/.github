@@ -2,7 +2,7 @@
 
 ![Forja das Capivaras Logo](https://via.placeholder.com/150) <!-- Substitua pela URL do logo da organização -->
 
-Bem-vindo à **Forja das Capivaras**! Somos uma empresa de jogos dedicada a criar experiências únicas e envolventes para jogadores de todas as idades. Nossa equipe é composta por desenvolvedores, artistas e designers apaixonados por jogos e inovação.
+Bem-vindo à **Netunum Tech**! Somos uma empresa de jogos dedicada a criar experiências únicas e envolventes para jogadores de todas as idades. Nossa equipe é composta por desenvolvedores, artistas e designers apaixonados por jogos e inovação.
 
 ## 🤝 Contribuindo
 
