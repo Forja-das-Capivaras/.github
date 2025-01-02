@@ -1,4 +1,4 @@
-# 🎮 Forja das Capivaras 🎮
+# 🎮 Netunum Tech 🎮
 
 ![Forja das Capivaras Logo](https://via.placeholder.com/150) <!-- Substitua pela URL do logo da organização -->
 
@@ -20,4 +20,4 @@ Todos os nossos projetos estão licenciados sob a [MIT License](https://github.c
 
 ---
 
-**Forja das Capivaras** © 2024. Todos os direitos reservados.
+**Netunum Tech** © 2025. Todos os direitos reservados.
